@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Math Quiz</string>
+    <string name="new_game_label">New Game</string>
+    <string name="about_label">About</string>
+    <string name="description_label">I confirm that I understand what plagiarism is and have read and understood the section on Assessment Offences in the Essential Information for Students. The work that I have submitted is entirely my own. Any work from other authors is duly referenced and acknowledged.</string>
+    <string name="name_label">Name: Koshila Gunasinghe</string>
+    <string name="student_id_label">Id: 20200695/w1833635</string>
+    <string name="ok_label">OK</string>
+    <string name="greater_btn_label">GREATER</string>
+    <string name="equal_label">==</string>
+    <string name="less_label">LESS</string>
+    <string name="expression1_label"> expression 01 </string>
+    <string name="expression2_label"> expression 02 </string>
+    <string name="result_label"> </string>
+    <string name="seconds_remaining_label">Seconds Remaining</string>
+    <string name="correct">Correct :</string>
+    <string name="wrong">Wrong :</string>
+    <string name="time_s_up">Time\'s Up!</string>
+
+</resources>
